@@ -1,4 +1,5 @@
- "Author": "marios",
+{
+  "Author": "marios",
   "Name": "XIVCombo",
   "InternalName": "XIVCombo",
   "AssemblyVersion": "1.6.4",
@@ -8,5 +9,11 @@
   "Tags": [
     "combo"
   ],
+  "DownloadLinkInstall": "https://github.com/mariospapa90/Combo2/raw/main/latest.zip",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkTesting": "https://github.com/mariospapa90/Combo2/raw/main/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/mariospapa90/Combo2/raw/main/latest.zip",
   "DalamudApiLevel": 5,
   "Punchline": "Combooo"
+}
