@@ -1,0 +1,12 @@
+ "Author": "marios",
+  "Name": "XIVCombo",
+  "InternalName": "XIVCombo",
+  "AssemblyVersion": "1.6.4",
+  "Description": "PVP combos",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/mariospapa90/Combo2",
+  "Tags": [
+    "combo"
+  ],
+  "DalamudApiLevel": 5,
+  "Punchline": "Combooo"
