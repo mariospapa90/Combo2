@@ -1,19 +1,19 @@
 {
   "Author": "marios",
-  "Name": "XIVCombo",
-  "InternalName": "XIVCombo",
-  "AssemblyVersion": "1.6.4",
+  "Name": "Combo2",
+  "InternalName": "Combo2",
+  "AssemblyVersion": "1.6.4.1",
   "Description": "PVP combos",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/mariospapa90/Combo2",
-  "Tags": [
-    "combo"
-  ],
+  "Tags": ["combo"],
+  "ImageUrls": [],
   "DownloadLinkInstall": "https://github.com/mariospapa90/Combo2/raw/main/latest.zip",
   "IsHide": false,
   "IsTestingExclusive": false,
   "DownloadLinkTesting": "https://github.com/mariospapa90/Combo2/raw/main/latest.zip",
   "DownloadLinkUpdate": "https://github.com/mariospapa90/Combo2/raw/main/latest.zip",
   "DalamudApiLevel": 5,
-  "Punchline": "Combooo"
+  "Punchline": "Combooo",
+  "LastUpdated": "0"
 }
